@@ -1,4 +1,4 @@
 {
-    "url": null,
-    "collection": null
+    "url": mongodb://SKCGM:skcgm123@ds050087.mongolab.com:50087/skcgm,
+    "collection": skcgm
 }
